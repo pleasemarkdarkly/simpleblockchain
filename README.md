@@ -72,4 +72,4 @@ Unmolested Blockchain? true
 - [ ] Compute hypothetical time to remine the whole blockchain
 - [ ] Public and private key pair for transactions and computing of each balance
 - [ ] Angular or Reaact UX to play with the blockchain
-- [ ] Invent a new consensus mechanism using "Proof of Meow™
+- [ ] Invent a new consensus mechanism using Proof of Meow™
